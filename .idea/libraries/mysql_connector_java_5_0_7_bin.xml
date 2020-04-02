@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.0.7-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Libs/mysql-connector-java-5.0.7-bin.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-tests.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-javadoc.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6-test-sources.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/commons-io-2.6-bin/commons-io-2.6" recursive="false" type="SOURCES" />
+  </library>
+</component>
